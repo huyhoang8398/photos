@@ -1,10 +1,10 @@
 ---
 type: _default
 layout: single
-url: /
+url: /Paris
 menu:
   main:
-    weight: 1
+    weight: 2
     identifier: Paris
     title: Paris
 unifiedAlt: '© Paris'

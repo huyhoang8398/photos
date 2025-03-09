@@ -1,10 +1,10 @@
 ---
 type: _default
 layout: single
-url: /Info/
+url: /info/
 menu:
   main:
-    weight: 4
+    weight: 3
     identifier: Info
     title: Info
 unifiedAlt: ''
