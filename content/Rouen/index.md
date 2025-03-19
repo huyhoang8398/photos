@@ -1,7 +1,7 @@
 ---
 type: _default
 layout: single
-url: /Rouen
+url: /
 menu:
   main:
     weight: 1
