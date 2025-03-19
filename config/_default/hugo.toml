@@ -1,7 +1,7 @@
 # timeout
 timeout = "1200s"
 # your website url
-baseURL = 'https://huyhoang8398.github.io/photos/'
+baseURL = 'https://huyhoang8398.github.io/photos'
 RelativeURLs=true
 CanonifyURLs=true
 # website title

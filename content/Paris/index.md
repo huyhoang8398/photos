@@ -4,7 +4,7 @@ layout: single
 url: /Paris
 menu:
   main:
-    weight: 2
+    weight: 3
     identifier: Paris
     title: Paris
 unifiedAlt: '© Paris'

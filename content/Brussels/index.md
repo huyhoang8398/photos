@@ -1,10 +1,10 @@
 ---
 type: _default
 layout: single
-url: /
+url: /Brussels
 menu:
   main:
-    weight: 1
+    weight: 2
     identifier: Brussels
     title: Brussels
 unifiedAlt: '© Brussels'
