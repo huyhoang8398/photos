@@ -15,7 +15,7 @@ dir="$1"
 cd "$dir" || { echo "Directory not found!"; exit 1; }
 
 # Get all jpg files and sort them
-files=(*.JPG)
+files=(*.jpg)
 
 # Counter to rename files sequentially
 counter=1
